@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 > **Tamil Nadu Property Market Intelligence System**  
-> Final Year Project — B.Sc Data Science | 2024-2025
+> Final Year Project — B.Sc Data Science | 2023-2026
 
 ---
 
