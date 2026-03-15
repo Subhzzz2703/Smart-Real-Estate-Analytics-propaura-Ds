@@ -135,7 +135,7 @@ matplotlib
 Subhashree J
 B.Sc Data Science
 Shrimati Indira Gandhi College,Trichy.
-[Your LinkedIn URL]
+www.linkedin.com/in/subhashree-jayaraman-49aa3628b
 
 ---
 
